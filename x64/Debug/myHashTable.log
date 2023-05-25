@@ -1,0 +1,11 @@
+﻿  addFunction.cpp
+  deleteFunction.cpp
+  findFunction.cpp
+  helpFunction.cpp
+  readFunctioncpp.cpp
+  Source.cpp
+C:\Users\perto\source\repos\myHashTable\myHashTable\Source.cpp(33,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\perto\source\repos\myHashTable\myHashTable\Source.cpp(35,26): warning C4101: temp: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\perto\source\repos\myHashTable\myHashTable\helpFunction.cpp(67): warning C4715: search: значение возвращается не при всех путях выполнения
+  myHashTable.vcxproj -> C:\Users\perto\source\repos\myHashTable\x64\Debug\myHashTable.exe
